@@ -1,0 +1,36 @@
+_repo: Comedies-of-Courtship_24985
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: The stories are without exception bright, racy, readable, clever." So
+  writes the London Literary World in its review of this collection of tales, which
+  includes the popular narrative, The Wheel of Love." As comedies these stories are
+  filled with wit, ingenuity, and satire and while the plots are varied, each possesses
+  a light romantic spirit.
+gutenberg_issued: '2008-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: The Wheel of Love -- The Lady of the Pool -- The Curate of Poltons
+  -- A Three-Volume Novel -- The Philosopher in the Apple Orchard -- The Decree of
+  Duke Deodonato.
+title: Comedies of Courtship
+url: http://www.gutenberg.org/ebooks/24985
